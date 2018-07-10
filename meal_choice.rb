@@ -30,3 +30,8 @@ def lunch(meal_choice = "Grilled cheese")
   puts "Midday is the best time for #{meal_choice}."
 end
 lunch
+
+def dinner(meal_choice = "Salmon")
+  puts "The evening is the best time for #{meal_choice}."
+end
+dinner
